@@ -1,6 +1,6 @@
 site_name: Techdocs Page
 nav:
-  - Home: 'index.md'
-  - Test: 'test.md'
+  - Home: index.md
+  - Test: test.md
   - Tech: 
-    - Hello123: 'tech/hello123.md'
+    - Hello123: tech/hello123.md

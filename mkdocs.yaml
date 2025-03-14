@@ -2,5 +2,4 @@ site_name: Techdocs Page
 nav:
   - Home: index.md
   - Test: test.md
-  - Tech: 
-    - My TechDoc: tech/mytechdoc.md
+  - My TechDoc: tech/mytechdoc.md

@@ -1,5 +1,0 @@
-site_name: Techdocs Page
-nav:
-  - Home: index.md
-  - Test: test.md
-  - My TechDoc: tech/mytechdoc.md

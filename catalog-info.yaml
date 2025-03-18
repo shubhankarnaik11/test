@@ -11,6 +11,9 @@ metadata:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: url:https://github.com/shubhankarnaik11/test/tree/main
     lighthouse.com/website-url: https://backstage.io
+  labels:
+    backstage.io/version: "2022.4.1" # type string to let users use the versioning scheme inherent to their system
+    backstage.io/entity-version: 1.10
 spec:
   type: library
   owner: CNCF

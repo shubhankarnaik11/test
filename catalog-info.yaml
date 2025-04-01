@@ -18,4 +18,6 @@ spec:
   type: library
   owner: CNCF
   lifecycle: production
-  custom: Custom
+  custom:
+    engineeringManager: user:john.doe
+    productManager: user:jane.doe

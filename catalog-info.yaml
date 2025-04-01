@@ -14,8 +14,8 @@ metadata:
   labels:
     backstage.io/version: "2022.4.1" # type string to let users use the versioning scheme inherent to their system
     backstage.io/entity-version: "1.10"
-  custom: Custom
 spec:
   type: library
   owner: CNCF
   lifecycle: production
+  custom: Custom
